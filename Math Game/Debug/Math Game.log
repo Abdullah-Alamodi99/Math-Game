@@ -1,0 +1,4 @@
+﻿  Math Game.cpp
+C:\My Projects\Console Applications\Math Game\Math Game\Math Game.cpp(109): warning C4715: 'GetNumber': not all control paths return a value
+C:\My Projects\Console Applications\Math Game\Math Game\Math Game.cpp(152): warning C4715: 'Calculate': not all control paths return a value
+  Math Game.vcxproj -> C:\My Projects\Console Applications\Math Game\Debug\Math Game.exe
